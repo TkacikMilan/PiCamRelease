@@ -1,2 +1,2 @@
 # PiCamRelease
-PiCamRelease - the release repository
+PiCamRelease - the release repository.
